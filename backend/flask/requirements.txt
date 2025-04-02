@@ -1,0 +1,8 @@
+flask
+redis
+mlxtend
+numpy
+pandas
+axios
+tensorflow
+scikit-learn
